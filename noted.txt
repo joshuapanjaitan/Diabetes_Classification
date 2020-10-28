@@ -1,0 +1,8 @@
+sex :	felame = 0
+ 	Male = 1
+Smoker :yes=1
+	no=0
+region:northwest = 0 (WIB)
+	southwest= 1 (WIB)
+	southeast = 2 (WITA)
+	northeast = 3 (WIT)
